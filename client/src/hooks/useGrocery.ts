@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import baseUrl from "../constant/baseUrl";
+import baseUrl from "../constant/BaseUrl";
 
 export interface IGroceryItem {
   name: string;
