@@ -1,4 +1,4 @@
-import GroceryItem from "./components/groceryItem";
+import GroceryItem from "./components/GroceryItem";
 import useGrocery from "./hooks/useGrocery";
 
 function App() {
